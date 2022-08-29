@@ -1,3 +1,4 @@
+
 header{
     background-image: url("./img/pattern.png");
     background-color: rgb(105, 105, 212);
@@ -6,4 +7,17 @@ header{
         width: 20%;
         padding-top: 80px;
         padding-bottom:10px ;
+}
+#info {
+    font-size: 15px;
+    color: rgb(107, 104, 104);
+}
+#info2{
+    color: rgb(19, 148, 148);
+}
+#description-photos{
+    font-size: 10px;
+}
+#text{
+    background-color: yellow;
 }
