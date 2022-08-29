@@ -30,6 +30,18 @@ header{
 .line-4 {
     background-color: lightskyblue;
 }
+
+.dim {
+    width:60% ;
+}
+th{
+    color: white;
+}
+
+tr{
+    text-align: left;
+}
+
 .photo1{
     width: 300px;
     height: 200px;
